@@ -1,0 +1,1521 @@
+<!DOCTYPE html>
+<html lang="en-ZA">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="PhysiMaths Tuition Centre provides Mathematics and Physics tuition for Grades 8 to 12, Grade 12 upgrading, online and face-to-face lessons in Newcastle.">
+
+    <meta name="keywords"
+          content="PhysiMaths, Mathematics tuition Newcastle, Physics tuition Newcastle, Grade 12 Maths, Grade 12 Physics, Maths tutor Newcastle, Physics tutor Newcastle, NSC tuition">
+
+    <meta name="author"
+          content="PhysiMaths Tuition Centre">
+
+    <meta name="theme-color"
+          content="#07111f">
+
+    <title>
+        PhysiMaths Tuition Centre | Mathematics & Physics Tuition
+    </title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap"
+          rel="stylesheet">
+
+    <!-- Website stylesheet -->
+    <link rel="stylesheet"
+          href="style.css">
+</head>
+
+<body>
+
+<!-- =========================================================
+     HEADER / NAVIGATION
+========================================================= -->
+
+<header class="site-header">
+
+    <nav class="nav container">
+
+        <a href="#home"
+           class="brand"
+           aria-label="PhysiMaths Tuition Centre Home">
+
+            <span class="brand-mark">
+                P
+            </span>
+
+            <span class="brand-text">
+                <strong>PhysiMaths</strong>
+                <small>Tuition Centre</small>
+            </span>
+
+        </a>
+
+
+        <button
+            class="menu-toggle"
+            type="button"
+            aria-label="Open navigation menu"
+            aria-expanded="false"
+            aria-controls="nav-links">
+
+            Menu
+
+        </button>
+
+
+        <div class="nav-links"
+             id="nav-links">
+
+            <a href="#subjects">
+                Subjects
+            </a>
+
+            <a href="#programmes">
+                Programmes
+            </a>
+
+            <a href="#approach">
+                Our Approach
+            </a>
+
+            <a href="#about">
+                About Sunjay
+            </a>
+
+            <a href="#faq">
+                FAQ
+            </a>
+
+            <a href="#contact"
+               class="nav-cta">
+
+                Enquire Now
+
+            </a>
+
+        </div>
+
+    </nav>
+
+</header>
+
+
+<main>
+
+<!-- =========================================================
+     HERO SECTION
+========================================================= -->
+
+<section class="hero"
+         id="home">
+
+    <div class="hero-glow"></div>
+
+    <div class="container hero-grid">
+
+        <div class="hero-copy">
+
+            <p class="eyebrow">
+                NEWCASTLE • ONLINE • FACE-TO-FACE
+            </p>
+
+
+            <h1>
+                Turn difficult concepts into
+                <span>real confidence.</span>
+            </h1>
+
+
+            <p class="hero-text">
+
+                Focused Mathematics and Physics tuition for
+                learners who want stronger understanding,
+                better exam technique and consistent academic
+                progress.
+
+            </p>
+
+
+            <div class="hero-actions">
+
+                <a href="#contact"
+                   class="btn btn-primary">
+
+                    Start an Enquiry
+
+                    <span>
+                        →
+                    </span>
+
+                </a>
+
+
+                <a href="#programmes"
+                   class="btn btn-ghost">
+
+                    Explore Tuition
+
+                </a>
+
+            </div>
+
+
+            <div class="trust-row">
+
+                <div>
+
+                    <strong>
+                        40+
+                    </strong>
+
+                    <span>
+                        years teaching experience
+                    </span>
+
+                </div>
+
+
+                <div>
+
+                    <strong>
+                        G8–G12
+                    </strong>
+
+                    <span>
+                        Mathematics tuition
+                    </span>
+
+                </div>
+
+
+                <div>
+
+                    <strong>
+                        G10–G12
+                    </strong>
+
+                    <span>
+                        Physics tuition
+                    </span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- HERO CARD -->
+
+        <div class="hero-card-wrap">
+
+            <div class="hero-card">
+
+                <p class="card-kicker">
+                    THE PHYSIMATHS METHOD
+                </p>
+
+
+                <h2>
+                    Learn. Practise.
+                    Evaluate. Improve.
+                </h2>
+
+
+                <div class="method-list">
+
+                    <div>
+
+                        <span>
+                            01
+                        </span>
+
+                        <p>
+
+                            <strong>
+                                Master key concepts
+                            </strong>
+
+                            <br>
+
+                            Structured lessons aligned
+                            to the curriculum.
+
+                        </p>
+
+                    </div>
+
+
+                    <div>
+
+                        <span>
+                            02
+                        </span>
+
+                        <p>
+
+                            <strong>
+                                Master exam questions
+                            </strong>
+
+                            <br>
+
+                            Build clear,
+                            step-by-step responses.
+
+                        </p>
+
+                    </div>
+
+
+                    <div>
+
+                        <span>
+                            03
+                        </span>
+
+                        <p>
+
+                            <strong>
+                                Track progress
+                            </strong>
+
+                            <br>
+
+                            Regular evaluation and
+                            constructive feedback.
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <a href="#approach"
+                   class="text-link">
+
+                    See How It Works →
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     TRUST / PROOF STRIP
+========================================================= -->
+
+<section class="proof-strip">
+
+    <div class="container proof-grid">
+
+        <p>
+            Designed for
+            <strong>NSC</strong>,
+            <strong>IEB</strong> and
+            <strong>SACAI</strong>
+            learners
+        </p>
+
+        <span></span>
+
+        <p>
+            Individual • Duplet • Quartet • Group
+        </p>
+
+        <span></span>
+
+        <p>
+            Live online or face-to-face
+        </p>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     SUBJECTS
+========================================================= -->
+
+<section class="section"
+         id="subjects">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <p class="eyebrow">
+                SUBJECTS & GRADES
+            </p>
+
+            <h2>
+                Focused tuition.
+                Clear direction.
+            </h2>
+
+            <p>
+                Choose the subject and level that matches
+                the learner's current needs and goals.
+            </p>
+
+        </div>
+
+
+        <div class="subject-grid">
+
+            <!-- MATHEMATICS -->
+
+            <article class="subject-card">
+
+                <div class="icon">
+                    ∑
+                </div>
+
+                <p class="card-label">
+                    MATHEMATICS
+                </p>
+
+                <h3>
+                    Grade 8 → Grade 12
+                </h3>
+
+                <p>
+
+                    Build strong foundations,
+                    strengthen problem-solving skills
+                    and prepare for demanding
+                    assessments and examinations.
+
+                </p>
+
+
+                <ul>
+
+                    <li>
+                        Grades 8–9
+                    </li>
+
+                    <li>
+                        Grades 10–12
+                    </li>
+
+                    <li>
+                        Grade 12 upgrading
+                    </li>
+
+                </ul>
+
+            </article>
+
+
+            <!-- PHYSICS -->
+
+            <article class="subject-card featured">
+
+                <div class="icon">
+                    ⚡
+                </div>
+
+                <p class="card-label">
+                    PHYSICS
+                </p>
+
+                <h3>
+                    Grade 10 → Grade 12
+                </h3>
+
+                <p>
+
+                    Understand the principles,
+                    work through calculations and
+                    develop clear, exam-ready responses.
+
+                </p>
+
+
+                <ul>
+
+                    <li>
+                        Grades 10–12
+                    </li>
+
+                    <li>
+                        Physical Science focus
+                    </li>
+
+                    <li>
+                        Grade 12 upgrading
+                    </li>
+
+                </ul>
+
+            </article>
+
+
+            <!-- UPGRADING -->
+
+            <article class="subject-card">
+
+                <div class="icon">
+                    ↗
+                </div>
+
+                <p class="card-label">
+                    UPGRADING
+                </p>
+
+                <h3>
+                    Grade 12 Rewrite
+                </h3>
+
+                <p>
+
+                    A structured programme for learners
+                    rewriting Grade 12 Mathematics
+                    and/or Physics.
+
+                </p>
+
+
+                <ul>
+
+                    <li>
+                        May–June NSC
+                    </li>
+
+                    <li>
+                        October–November NSC
+                    </li>
+
+                    <li>
+                        Targeted revision & past papers
+                    </li>
+
+                </ul>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     TUITION PROGRAMMES
+========================================================= -->
+
+<section class="dark-section"
+         id="programmes">
+
+    <div class="container">
+
+        <div class="section-heading light">
+
+            <p class="eyebrow">
+                TUITION OPTIONS
+            </p>
+
+            <h2>
+                Choose the learning
+                environment that fits.
+            </h2>
+
+            <p>
+
+                From personalised support to
+                collaborative group learning,
+                the programme can be matched
+                to the learner.
+
+            </p>
+
+        </div>
+
+
+        <div class="programme-grid">
+
+            <!-- PROGRAMME 1 -->
+
+            <article class="programme">
+
+                <span class="number">
+                    01
+                </span>
+
+                <h3>
+                    Personalised Tuition
+                </h3>
+
+                <p>
+
+                    Individual, duplet or quartet
+                    sessions focused on the learner's
+                    pace, gaps and goals.
+
+                </p>
+
+                <a href="#contact">
+                    Ask About Availability →
+                </a>
+
+            </article>
+
+
+            <!-- PROGRAMME 2 -->
+
+            <article class="programme">
+
+                <span class="number">
+                    02
+                </span>
+
+                <h3>
+                    Group Tuition
+                </h3>
+
+                <p>
+
+                    Collaborative learning designed
+                    to build understanding, confidence,
+                    discussion and problem-solving.
+
+                </p>
+
+                <a href="#contact">
+                    Ask About Groups →
+                </a>
+
+            </article>
+
+
+            <!-- PROGRAMME 3 -->
+
+            <article class="programme">
+
+                <span class="number">
+                    03
+                </span>
+
+                <h3>
+                    Online Lessons
+                </h3>
+
+                <p>
+
+                    Live Zoom-based lessons with
+                    interactive problem-solving,
+                    digital resources and support
+                    from home.
+
+                </p>
+
+                <a href="#contact">
+                    Ask About Online →
+                </a>
+
+            </article>
+
+        </div>
+
+
+        <!-- =====================================================
+             PRICING
+        ====================================================== -->
+
+        <div class="pricing">
+
+            <div class="pricing-copy">
+
+                <p class="eyebrow">
+                    PUBLISHED GROUP TUITION RATES
+                </p>
+
+                <h2>
+                    Simple options for
+                    school-year tuition.
+                </h2>
+
+                <p>
+
+                    The rates below reflect the published
+                    information from the existing
+                    PhysiMaths website.
+
+                </p>
+
+                <p>
+
+                    Please confirm current fees,
+                    availability and registration
+                    requirements directly before enrolling.
+
+                </p>
+
+            </div>
+
+
+            <div class="price-table-wrap">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+
+                            <th>
+                                Programme
+                            </th>
+
+                            <th>
+                                Single learner
+                            </th>
+
+                            <th>
+                                With +1
+                            </th>
+
+                            <th>
+                                With +2
+                            </th>
+
+                        </tr>
+
+                    </thead>
+
+
+                    <tbody>
+
+                        <tr>
+
+                            <td>
+                                Mathematics
+                            </td>
+
+                            <td>
+                                R595 / month
+                            </td>
+
+                            <td>
+                                R545 each
+                            </td>
+
+                            <td>
+                                R495 each
+                            </td>
+
+                        </tr>
+
+
+                        <tr>
+
+                            <td>
+                                Physics
+                            </td>
+
+                            <td>
+                                R595 / month
+                            </td>
+
+                            <td>
+                                R545 each
+                            </td>
+
+                            <td>
+                                R495 each
+                            </td>
+
+                        </tr>
+
+
+                        <tr>
+
+                            <td>
+                                Maths + Physics
+                            </td>
+
+                            <td>
+                                R1,190 / month
+                            </td>
+
+                            <td>
+                                R1,090 each
+                            </td>
+
+                            <td>
+                                R990 each
+                            </td>
+
+                        </tr>
+
+                    </tbody>
+
+                </table>
+
+
+                <p class="fine-print">
+
+                    Registration:
+                    R150 per learner for one subject;
+                    R300 for Mathematics + Physics.
+
+                    The existing website also states a
+                    7.5% annual upfront tuition discount.
+
+                    Fees and availability should be confirmed
+                    directly with the tuition centre.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     OUR APPROACH
+========================================================= -->
+
+<section class="section"
+         id="approach">
+
+    <div class="container split">
+
+        <div>
+
+            <p class="eyebrow">
+                THE LEARNING SYSTEM
+            </p>
+
+            <h2>
+                Not just more lessons.
+                A clearer route to improvement.
+            </h2>
+
+            <p class="lead">
+
+                PhysiMaths uses complementary lesson
+                styles to connect curriculum knowledge
+                with exam performance.
+
+            </p>
+
+        </div>
+
+
+        <div class="steps">
+
+            <article>
+
+                <span>
+                    01
+                </span>
+
+                <div>
+
+                    <h3>
+                        KCS — Know What Matters
+                    </h3>
+
+                    <p>
+
+                        Key Concepts and Skills lessons
+                        focus on essential ideas, formulas
+                        and principles in the Annual
+                        Teaching Plan.
+
+                    </p>
+
+                </div>
+
+            </article>
+
+
+            <article>
+
+                <span>
+                    02
+                </span>
+
+                <div>
+
+                    <h3>
+                        MSR — Master Exam Questions
+                    </h3>
+
+                    <p>
+
+                        Learners practise understanding
+                        questions, planning solutions and
+                        writing clear exam-ready responses.
+
+                    </p>
+
+                </div>
+
+            </article>
+
+
+            <article>
+
+                <span>
+                    03
+                </span>
+
+                <div>
+
+                    <h3>
+                        Progress Evaluation
+                    </h3>
+
+                    <p>
+
+                        Regular performance evaluation
+                        and constructive feedback help
+                        identify strengths and the next
+                        areas to improve.
+
+                    </p>
+
+                </div>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     QUOTE
+========================================================= -->
+
+<section class="quote-section">
+
+    <div class="container quote">
+
+        <p class="quote-mark">
+            “
+        </p>
+
+        <blockquote>
+
+            Success isn't always about
+            greatness. It's about consistency.
+
+        </blockquote>
+
+        <p>
+
+            Consistent hard work leads to success.
+            Greatness will come.
+
+        </p>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     ABOUT THE TUTOR
+========================================================= -->
+
+<section class="section about"
+         id="about">
+
+    <div class="container about-grid">
+
+        <div class="about-photo">
+
+            <div>
+
+                <span>
+                    SP
+                </span>
+
+                <p>
+                    Tutor profile image
+                    can be added here
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <div>
+
+            <p class="eyebrow">
+                MEET SUNJAY
+            </p>
+
+            <h2>
+                Experience that
+                puts learners first.
+            </h2>
+
+            <p class="lead">
+
+                Sunjay brings 40 years of teaching
+                experience to Mathematics and
+                Physical Science tuition, with a
+                supportive approach focused on
+                understanding, confidence and growth.
+
+            </p>
+
+
+            <div class="about-points">
+
+                <p>
+
+                    <strong>
+                        01
+                    </strong>
+
+                    Clear, structured explanations
+
+                </p>
+
+
+                <p>
+
+                    <strong>
+                        02
+                    </strong>
+
+                    Critical thinking and problem-solving
+
+                </p>
+
+
+                <p>
+
+                    <strong>
+                        03
+                    </strong>
+
+                    Exam-focused practice and feedback
+
+                </p>
+
+            </div>
+
+
+            <a href="#contact"
+               class="btn btn-dark">
+
+                Speak to Sunjay
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     FAQ
+========================================================= -->
+
+<section class="section faq-section"
+         id="faq">
+
+    <div class="container narrow">
+
+        <div class="section-heading">
+
+            <p class="eyebrow">
+                FAQ
+            </p>
+
+            <h2>
+                Questions parents and
+                learners ask.
+            </h2>
+
+        </div>
+
+
+        <div class="faq">
+
+            <details>
+
+                <summary>
+                    Which grades are covered?
+                </summary>
+
+                <p>
+
+                    Mathematics is offered from
+                    Grade 8 through Grade 12,
+                    including Grade 12 upgrading.
+
+                    Physics is offered from
+                    Grade 10 through Grade 12,
+                    including Grade 12 upgrading.
+
+                </p>
+
+            </details>
+
+
+            <details>
+
+                <summary>
+                    Are lessons online or face-to-face?
+                </summary>
+
+                <p>
+
+                    Both options are offered.
+
+                    Online lessons use Zoom,
+                    while face-to-face tuition is
+                    available in Newcastle,
+                    subject to the programme
+                    and availability.
+
+                </p>
+
+            </details>
+
+
+            <details>
+
+                <summary>
+                    Which curricula are supported?
+                </summary>
+
+                <p>
+
+                    The existing centre states that
+                    lessons support NSC, IEB and SACAI
+                    learners and are aligned with the
+                    relevant Annual Teaching Plan.
+
+                </p>
+
+            </details>
+
+
+            <details>
+
+                <summary>
+                    How does registration work?
+                </summary>
+
+                <p>
+
+                    Start with an enquiry.
+
+                    The centre can confirm the learner's
+                    programme, availability, fees and
+                    registration requirements before
+                    you proceed.
+
+                </p>
+
+            </details>
+
+
+            <details>
+
+                <summary>
+                    Can learners receive individual support?
+                </summary>
+
+                <p>
+
+                    Yes.
+
+                    PhysiMaths offers individual,
+                    duplet and quartet tuition options,
+                    alongside group tuition.
+
+                </p>
+
+            </details>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================================================
+     CONTACT / ENQUIRY
+========================================================= -->
+
+<section class="contact-section"
+         id="contact">
+
+    <div class="container contact-grid">
+
+        <div>
+
+            <p class="eyebrow">
+                READY TO START?
+            </p>
+
+            <h2>
+                Tell us what
+                the learner needs.
+            </h2>
+
+            <p>
+
+                Send the basic information and
+                the centre can follow up about
+                the right subject, grade and
+                tuition option.
+
+            </p>
+
+
+            <div class="contact-details">
+
+                <a href="https://wa.me/27837782525"
+                   target="_blank"
+                   rel="noopener noreferrer">
+
+                    <span>
+                        WhatsApp
+                    </span>
+
+                    <strong>
+                        083 778 2525
+                    </strong>
+
+                </a>
+
+
+                <div>
+
+                    <span>
+                        Venue
+                    </span>
+
+                    <strong>
+                        35 Magnolia Street,
+                        Arbor Park, Newcastle
+                    </strong>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- ENQUIRY FORM -->
+
+        <form class="enquiry-form"
+              id="enquiryForm">
+
+            <label>
+
+                Learner's Name
+
+                <input
+                    type="text"
+                    name="learner"
+                    placeholder="Full name"
+                    autocomplete="name"
+                    required>
+
+            </label>
+
+
+            <div class="form-row">
+
+                <label>
+
+                    Grade
+
+                    <select name="grade"
+                            required>
+
+                        <option value="">
+                            Select
+                        </option>
+
+                        <option>
+                            Grade 8
+                        </option>
+
+                        <option>
+                            Grade 9
+                        </option>
+
+                        <option>
+                            Grade 10
+                        </option>
+
+                        <option>
+                            Grade 11
+                        </option>
+
+                        <option>
+                            Grade 12
+                        </option>
+
+                        <option>
+                            Grade 12 Upgrade
+                        </option>
+
+                    </select>
+
+                </label>
+
+
+                <label>
+
+                    Subject
+
+                    <select name="subject"
+                            required>
+
+                        <option value="">
+                            Select
+                        </option>
+
+                        <option>
+                            Mathematics
+                        </option>
+
+                        <option>
+                            Physics
+                        </option>
+
+                        <option>
+                            Maths + Physics
+                        </option>
+
+                    </select>
+
+                </label>
+
+            </div>
+
+
+            <label>
+
+                Tuition Type
+
+                <select name="type"
+                        required>
+
+                    <option value="">
+                        Select
+                    </option>
+
+                    <option>
+                        Personalised
+                    </option>
+
+                    <option>
+                        Group
+                    </option>
+
+                    <option>
+                        Online
+                    </option>
+
+                    <option>
+                        Face-to-face
+                    </option>
+
+                    <option>
+                        Not sure yet
+                    </option>
+
+                </select>
+
+            </label>
+
+
+            <label>
+
+                Parent / Guardian WhatsApp
+
+                <input
+                    type="tel"
+                    name="contact"
+                    placeholder="e.g. 083 123 4567"
+                    autocomplete="tel"
+                    required>
+
+            </label>
+
+
+            <label>
+
+                Message
+
+                <textarea
+                    name="message"
+                    rows="4"
+                    placeholder="Tell us about the learner's goals or current challenge..."></textarea>
+
+            </label>
+
+
+            <button
+                class="btn btn-primary full"
+                type="submit">
+
+                Prepare WhatsApp Enquiry →
+
+            </button>
+
+
+            <p class="form-note">
+
+                Submitting this form opens WhatsApp
+                with the enquiry details. This
+                website does not store the form
+                information.
+
+            </p>
+
+
+            <p
+                id="formStatus"
+                class="form-status"
+                role="status">
+            </p>
+
+        </form>
+
+    </div>
+
+</section>
+
+</main>
+
+
+<!-- =========================================================
+     FOOTER
+========================================================= -->
+
+<footer>
+
+    <div class="container footer-grid">
+
+        <div>
+
+            <a href="#home"
+               class="brand">
+
+                <span class="brand-mark">
+                    P
+                </span>
+
+                <span class="brand-text">
+
+                    <strong>
+                        PhysiMaths
+                    </strong>
+
+                    <small>
+                        Tuition Centre
+                    </small>
+
+                </span>
+
+            </a>
+
+
+            <p>
+                Newcastle's Mathematics
+                & Physics tuition centre.
+            </p>
+
+        </div>
+
+
+        <div>
+
+            <p>
+
+                35 Magnolia Street<br>
+                Arbor Park<br>
+                Newcastle
+
+            </p>
+
+        </div>
+
+
+        <div>
+
+            <p>
+
+                <a href="https://wa.me/27837782525"
+                   target="_blank"
+                   rel="noopener noreferrer">
+
+                    WhatsApp:
+                    083 778 2525
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <div class="container copyright">
+
+        © <span id="year"></span>
+        PhysiMaths Tuition Centre.
+        All rights reserved.
+
+    </div>
+
+</footer>
+
+
+<!-- =========================================================
+     JAVASCRIPT
+========================================================= -->
+
+<script src="script.js"></script>
+
+</body>
+</html>
